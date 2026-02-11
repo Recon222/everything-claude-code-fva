@@ -38,6 +38,8 @@
     "./agents/security-reviewer.md",
     "./agents/tdd-guide.md",
     "./agents/tauri-frontend.md",
-    "./agents/tauri-backend.md"
+    "./agents/tauri-backend.md",
+    "./agents/react-tauri-rust-code-reviewer.md",
+    "./agents/react-tauri-rust-test-writer-fixer-v2.md"
   ]
 }

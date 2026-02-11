@@ -6,8 +6,8 @@
     "name": "Affaan Mustafa",
     "url": "https://x.com/affaanmustafa"
   },
-  "homepage": "https://github.com/affaan-m/everything-claude-code",
-  "repository": "https://github.com/affaan-m/everything-claude-code",
+  "homepage": "https://github.com/Recon222/everything-claude-code-fva",
+  "repository": "https://github.com/Recon222/everything-claude-code-fva",
   "license": "MIT",
   "keywords": [
     "claude-code",
@@ -36,6 +36,8 @@
     "./agents/python-reviewer.md",
     "./agents/refactor-cleaner.md",
     "./agents/security-reviewer.md",
-    "./agents/tdd-guide.md"
+    "./agents/tdd-guide.md",
+    "./agents/tauri-frontend.md",
+    "./agents/tauri-backend.md"
   ]
 }

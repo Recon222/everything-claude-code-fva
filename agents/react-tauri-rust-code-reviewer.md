@@ -1,7 +1,7 @@
 ---
 name: react-tauri-rust-code-reviewer
 description: Code reviewer for Tauri v2 React/Rust apps. Reviews against feature-based architecture, type-safe IPC, state management onion, and Rust safety patterns.
-tools: ["Read", "Grep", "Glob", "Bash"]
+tools: ["Read", "Write", "Grep", "Glob", "Bash"]
 model: opus
 ---
 
